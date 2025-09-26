@@ -3,13 +3,13 @@
 <img width="3840" height="2160" alt="c503141f9cf3cc60-17b59da5d4c8d5f9-00006653" src="https://github.com/user-attachments/assets/e9357139-8dd2-47da-a965-91b4b37006ac" />
 
 ### The newest Mod is Available Now for download
-This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20 years of NFL 2K5 Football and what better way to celebrate this LEGEND then with an updated texture mod that will bring the authenticity that we know players will appreciate and enjoy. 
+This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
 
 ### Enormous Mod Selections
-Along with every uniform created we are also including udpated 2024 uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finishing running the installer and setting up their NFL 2K5 Edition this year.
+Along with every uniform created we are also including udpated 2025 uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finishing running the installer and setting up their NFL 2K5 Edition this year.
 
 ### UI Improvements
-We overhauled menus and other branding to make this release ready for the 2025 NFL season ahead and to celebrate the 20th anniversary of NFL 2K5.
+We overhauled menus and other branding to make this release ready for the 2025-26 NFL season.
 
 ### Updated Rosters
 Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters dropped legagy cyberfaces and portraits for the current Madden Ratings player portraits.
