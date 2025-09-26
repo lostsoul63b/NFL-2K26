@@ -1,0 +1,8 @@
+**Version 26.1.0.0**
+* 2025 Week 2 Ros + Fra
+* x
+* Includes UFL Mod + Ros
+* Includes SuperBowl LVIII Mod + Ros
+* Includes SuperBowl LVII Mod + Ros
+* Includes Classic Mod + Ros
+* Includes Utilities (editors, draft class tool, mymc)
