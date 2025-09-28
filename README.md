@@ -52,7 +52,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2026 Camp | [Ros](https://www.mediafire.com/file_premium/ndduvhwfryj72ge/NFL2026Camp.zip/file) |  |  |  |
-| NFL 2025 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | [ReadMe] |  |  |
+| NFL 2025 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K26/blob/main/Ratings.txt) |  |  |
 
 ---------
 ## JSGME MODS
