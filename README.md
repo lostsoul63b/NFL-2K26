@@ -6,13 +6,13 @@
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
 
 ### Enormous Mod Selections
-Along with every uniform created we are also including udpated 2025 uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finishing running the installer and setting up their NFL 2K5 Edition this year.
+Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year.
 
 ### UI Improvements
 We overhauled menus and other branding to make this release ready for the 2025-26 NFL season.
 
 ### Updated Rosters
-Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters dropped legagy cyberfaces and portraits for the current Madden Ratings player portraits.
+Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters maintain the Madden player portraits.
 
 **The 2K5 Mod Team continues to deliver a unique PC Football experience to the community! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
@@ -65,7 +65,19 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## Release CHANGELOG
 **Version 26.1.0.0**
 * 2025 Week 2 Ros + Fra
-* x
+* updated jersey stiching
+* updated some teams uniforms
+* updated some teams endzones
+* updated selection menus
+* updated cover
+* updated stadiums (WIP)
+* updated practice field
+* added community content (stadiums, uniforms)
+* fixed issue with jets/giants font hash
+* fixed issue with dolphins franchise logo
+* other texture bug fixes
+* Week 2 ratings with ros + fra files
+* includes Mike Oneal's playbooks
 * Includes UFL Mod + Ros
 * Includes SuperBowl LVIII Mod + Ros
 * Includes SuperBowl LVII Mod + Ros
