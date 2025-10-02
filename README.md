@@ -5,14 +5,17 @@
 ### The newest Mod is Available Now for download
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
 
+### Things to know
+This installer will not update existing install versions and will install independently. Keep in mind that video halftime highlights requires the 40GB vhdd file be created in the emaulators vhdd directory and formatted using the included ULE iso. Future update EXE insallers will replace existing covers, MODS and textures directories inside of the emaulator directory. It is RECOMMENDED, you backup any files in these directories before running an upgrade for this release.
+
 ### Enormous Mod Selections
-Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year.
+Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year. Big thanks to BigTimeEmpire and MisterAlex for helping with uniform and stadium texture GME's.
 
 ### UI Improvements
 We overhauled menus and other branding to make this release ready for the 2025-26 NFL season.
 
 ### Updated Rosters
-Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters maintain the Madden player portraits.
+Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters maintain the Madden player portraits. Big thanks to BAD_AL for continuing to support roster automation!
 
 **The 2K5 Mod Team continues to deliver a unique PC Football experience to the community! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
@@ -42,10 +45,10 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | AVX2 | Sep 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer]() | [Tutorial]() | 
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | SSE4 | Sep 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer]() | [Tutorial]() | 
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v26.1.0.0 | XBOX | Sep 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg]() | [Tutorial](https://www.nfl2kmod.com/xbox) | 
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v26.1.0.0 | Android | Sep 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android]() | [Tutorial](https://youtu.be/KYR4NOMAQj0) | 
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | AVX2 | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/y3tu5kre9r9btpj/NFL2K26_v26.1.0_Setup.zip/file) | [Tutorial]() | 
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | SSE4 | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/oabi74yiuhgysxu/NFL2K26_v26.1.0_SSE4_Setup.zip/file) | [Tutorial]() | 
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v26.1.0.0 | XBOX | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/w92g5chvio1rikx/NFL2K25_XBOX_v26.1.0.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v26.1.0.0 | Android | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/0n5n265zlxelhch/NFL2K25_Android_v26.1.0.zip/file) | [Tutorial](https://youtu.be/KYR4NOMAQj0) | 
 
 ---------
 ## Available Rosters
