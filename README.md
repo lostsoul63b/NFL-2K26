@@ -10,6 +10,8 @@ This Mod has been in development since LostsouL started the project for NFL2K5 i
 * Berman video halftime highlights requires the 40GB vhdd file be created and formatted.
 * Use the Ros_Portraits 26' GME with the included roster and franchise.
 * All new GME mods with the "_25C" suffix are community provided updates that were included.
+* Rosters are in the memcard in slot 1
+* Playbooks are in the memcard in slot 2
 
 ### Enormous Mod Selections
 Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year. Big thanks to BigTimeEmpire and MisterAlex for helping with uniform and stadium texture GME's.
