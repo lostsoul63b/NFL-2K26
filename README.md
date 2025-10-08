@@ -6,7 +6,11 @@
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
 
 ### Things to know
-This installer will not update existing install versions and will install independently. Keep in mind that video halftime highlights requires the 40GB vhdd file be created in the emaulators vhdd directory and formatted using the included ULE iso. Future update EXE insallers will replace existing covers, MODS and textures directories inside of the emaulator directory. It is RECOMMENDED, you backup any files in these directories before running an upgrade for this release.
+* This installer will not update existing installed versions and will install independently.
+* Berman video halftime highlights requires the 40GB vhdd file be created in the emaulators vhdd directory and formatted using the included ULE iso.
+* Use the Ros_Portraits 26' GME with the included roster and franchise.
+* Use the Uni_20th Anniversay Jersey's GME if you want the 20th anniversary jersey logo.
+* All GME mods with the "_25C" suffix are community provided updates that were included.
 
 ### Enormous Mod Selections
 Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year. Big thanks to BigTimeEmpire and MisterAlex for helping with uniform and stadium texture GME's.
@@ -40,7 +44,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
 
-#### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders, as well asl replace the memcard in slot 1 "NFL25_S1.ps2"*
+#### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders, and the memcard in slot 1*
 
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
