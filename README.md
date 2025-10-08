@@ -7,10 +7,9 @@ This Mod has been in development since LostsouL started the project for NFL2K5 i
 
 ### Things to know
 * This installer will not update existing installed versions and will install independently.
-* Berman video halftime highlights requires the 40GB vhdd file be created in the emaulators vhdd directory and formatted using the included ULE iso.
+* Berman video halftime highlights requires the 40GB vhdd file be created and formatted.
 * Use the Ros_Portraits 26' GME with the included roster and franchise.
-* Use the Uni_20th Anniversay Jersey's GME if you want the 20th anniversary jersey logo.
-* All GME mods with the "_25C" suffix are community provided updates that were included.
+* All new GME mods with the "_25C" suffix are community provided updates that were included.
 
 ### Enormous Mod Selections
 Along with every uniform created we are also including udpated uniforms for the new season, utilities and other released mods like the Classic Mod, Super Bowl Mod and most recent UFL Mod. We want everyone to have everything ready to play when they finish running the installer and setting up their MOD this year. Big thanks to BigTimeEmpire and MisterAlex for helping with uniform and stadium texture GME's.
@@ -49,10 +48,10 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | AVX2 | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/y3tu5kre9r9btpj/NFL2K26_v26.1.0_Setup.zip/file) | [Tutorial]() | 
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | SSE4 | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/oabi74yiuhgysxu/NFL2K26_v26.1.0_SSE4_Setup.zip/file) | [Tutorial]() | 
-| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v26.1.0.0 | XBOX | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/w92g5chvio1rikx/NFL2K25_XBOX_v26.1.0.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 
-| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v26.1.0.0 | Android | 02 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/0n5n265zlxelhch/NFL2K25_Android_v26.1.0.zip/file) | [Tutorial](https://youtu.be/KYR4NOMAQj0) | 
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | AVX2 | 08 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/28oiol63csev3tc/NFL2K26_v26.1.0_Setup.zip/file) | [Tutorial]() | 
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | SSE4 | 08 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/gs2za7cpu0v7xdn/NFL2K26_v26.1.0_SSE4_Setup.zip/file) | [Tutorial]() | 
+| ![Xbox_Series_X_S](https://user-images.githubusercontent.com/69597675/155858271-c6788630-e7c0-47bb-8138-018d2d3db0c1.png) | v26.1.0.0 | XBOX | 08 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Console Pkg](https://www.mediafire.com/file_premium/g53ub2j93xubn0w/NFL2K25_XBOX_v26.1.0.zip/file) | [Tutorial](https://www.nfl2kmod.com/xbox) | 
+| ![android](https://user-images.githubusercontent.com/69597675/177371512-f864b1cc-8ad2-470c-a3be-7983edbb3f19.png) | v26.1.0.0 | Android | 08 Oct 2026 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K25/blob/main/Changelog.txt) | [Android](https://www.mediafire.com/file_premium/k0iqp41pxon352l/NFL2K25_Android_v26.1.0.zip/file) | [Tutorial](https://youtu.be/KYR4NOMAQj0) | 
 
 ---------
 ## Available Rosters
