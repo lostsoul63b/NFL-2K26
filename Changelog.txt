@@ -1,6 +1,18 @@
 **Version 26.1.0.0**
 * 2025 Week 2 Ros + Fra
-* x
+* updated jersey stiching
+* updated some teams uniforms
+* updated some teams endzones
+* updated selection menus
+* updated cover
+* updated stadiums (WIP)
+* updated practice field
+* added community content (stadiums, uniforms)
+* fixed issue with jets/giants font hash
+* fixed issue with dolphins franchise logo
+* other texture bug fixes
+* Week 2 ratings with ros + fra files
+* includes Mike Oneal's playbooks
 * Includes UFL Mod + Ros
 * Includes SuperBowl LVIII Mod + Ros
 * Includes SuperBowl LVII Mod + Ros
