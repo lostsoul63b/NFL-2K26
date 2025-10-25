@@ -47,7 +47,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 
 #### *Upgrading using the EXE installer will overwrite everything in your covers, MODS and textures folders, and the memcard in slot 1*
 
-## Available Releases
+## Current Release
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v26.1.0.0 | AVX2 | 08 Oct 2025 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K26/blob/main/Changelog.txt) | [EXE Installer](https://www.mediafire.com/file_premium/28oiol63csev3tc/NFL2K26_v26.1.0_Setup.zip/file) | [Tutorial](https://youtu.be/GA1GfwcvjHs) | 
