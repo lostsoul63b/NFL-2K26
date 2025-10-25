@@ -70,7 +70,7 @@ As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulat
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download](https://www.mediafire.com/file/ufmwyo3r98xtlom/NCAA23_SEC_2023.zip/file) | [Click-to-Watch](https://youtu.be/XvpsocyO85g) |
 
 ---------
-## Release CHANGELOG
+## CHANGELOG
 **Version 26.1.0.0**
 * 2025 Week 2 Ros + Fra
 * updated jersey stiching
