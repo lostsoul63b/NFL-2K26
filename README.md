@@ -40,7 +40,7 @@ Included are the NFL 2025-26 Week 2 rosters complete with everything players are
 * ![X](https://github.com/user-attachments/assets/643bcb78-bdbc-4cd9-9142-7c1bd117623e) [X](https://twitter.com/blostsou) - Good place for infrequent updates
  
 ---------
-## ESPN NFL 2K25 - Download
+## ESPN NFL 2K26 - Download
 As this release is specific for the PS2 version running on PCSX2 1.7.2868 emulator. Playstation dual sense controller will be the default controller option and don't worry there is a GME mod you can enable if you would like to use Xbox controller.
 
 #### *Upgrading the emulator beyond January 2023 will break jersey font textures*
