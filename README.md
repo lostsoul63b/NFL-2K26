@@ -54,29 +54,6 @@ Included are the NFL 2025-26 Week 2 rosters complete with everything players are
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download](https://www.mediafire.com/file/ufmwyo3r98xtlom/NCAA23_SEC_2023.zip/file) | [Click-to-Watch](https://youtu.be/XvpsocyO85g) |
 
 ---------
-## CHANGELOG
-**Version 26.1.0.0**
-* 2025 Week 2 Ros + Fra
-* updated jersey stiching
-* updated some teams uniforms
-* updated some teams endzones
-* updated selection menus
-* updated cover
-* updated stadiums (WIP)
-* updated practice field
-* added community content (stadiums, uniforms)
-* fixed issue with jets/giants font hash
-* fixed issue with dolphins franchise logo
-* other texture bug fixes
-* Week 2 ratings with ros + fra files
-* includes Mike Oneal's playbooks
-* Includes UFL Mod + Ros
-* Includes SuperBowl LVIII Mod + Ros
-* Includes SuperBowl LVII Mod + Ros
-* Includes Classic Mod + Ros
-* Includes Utilities (editors, draft class tool, mymc)
-
----------
 ## MOD Team Credits
 **Special thanks and much** ![heart](https://user-images.githubusercontent.com/69597675/125808838-b20315aa-b53f-41a2-b31a-691d685fb1df.png) to everyone that helped bring this mod to life!
 * LostsouL
