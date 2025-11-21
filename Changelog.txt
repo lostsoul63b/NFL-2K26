@@ -1,3 +1,24 @@
+**v26.1.1**
+* Uni_Bills 25' All Red Color Rush #red helmet + fuse jersey
+* Uni_Bills 25' Rivalry Cold Front
+* Uni_Cardinals 25' Rivalry Built to last
+* Uni_Dolphins 25' Rivalry Embrace the Pressure
+* Uni_Patriots 25' Rivalry Nor-easter
+* Uni_Ravens 25' All Purple Color Rush #purple helmet
+* Stadium_Broncos Field Logo_25C
+* Stadium_Broncos Navy Endzone_25C
+* Stadium_Broncos Orange Endzone_25C
+* Stadium_Broncos Throwback Endzone_25C
+* Stadium_Chargers Sofi * Navy_25C
+* Stadium_Chargers Throwback_25C
+* Stadium_Jets Black Endzone_25C
+* Stadium_Jets Green Alt Endzone_25C
+* Stadium_Steelers Alt Endzone_25C
+* Stadium_Texans Black Endzone_25C
+* Browns endsones
+* Commanders endzones
+* Week 9 ratings
+
 **Version 26.1.0.0**
 * 2025 Week 2 Ros + Fra
 * updated jersey stiching
@@ -18,3 +39,4 @@
 * Includes SuperBowl LVII Mod + Ros
 * Includes Classic Mod + Ros
 * Includes Utilities (editors, draft class tool, mymc)
+
