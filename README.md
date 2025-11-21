@@ -1,6 +1,6 @@
 # NFL 2K26
 
-<img width="3840" height="2160" alt="c503141f9cf3cc60-17b59da5d4c8d5f9-00006653" src="https://github.com/user-attachments/assets/e9357139-8dd2-47da-a965-91b4b37006ac" />
+<img width="3840" height="2160" alt="c503141f9cf3cc60-17b59da5d4c8d5f9-00006653" src="https://github.com/user-attachments/assets/a5a00758-5b60-43d6-bb95-a1f8dd2ffe69" />
 
 ### The newest Mod is Available Now for download
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
