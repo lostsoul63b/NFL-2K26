@@ -6,7 +6,7 @@
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This marks 20+ years of NFL 2K5 Football and what better way to celebrate this LEGEND then with another updated texture mod to continue the authenticity that we know players will appreciate and enjoy. 
 
 ### Things to know
-* This installer will not update existing installed versions and will install independently.
+* This installer will not update non NFL26 installed versions.
 * Berman video halftime highlights requires the 40GB vhdd file be created and formatted.
 * Use the Ros_Portraits 26' GME with the included roster and franchise.
 * All new GME mods with the "_25C" suffix are community provided updates that were included.
@@ -20,7 +20,7 @@ Along with every uniform created we are also including udpated uniforms for the 
 We overhauled menus and other branding to make this release ready for the 2025-26 NFL season.
 
 ### Updated Rosters
-Included are the NFL 2025-26 Week 2 rosters complete with everything players are used to being included in the roster sets we release. This years rosters maintain the Madden player portraits. Big thanks to BAD_AL for continuing to support roster automation!
+Included are the NFL 2025-26 rosters complete with everything players are used to being included in the roster sets we release. This years rosters maintain the Madden player portraits. Big thanks to BAD_AL for continuing to support roster automation!
 
 **The 2K5 Mod Team continues to deliver a unique PC Football experience to the community! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
