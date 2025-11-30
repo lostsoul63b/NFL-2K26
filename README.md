@@ -45,7 +45,7 @@ Included are the NFL 2025-26 rosters complete with everything players are used t
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2025 Camp | [Ros](https://www.mediafire.com/file_premium/ndduvhwfryj72ge/NFL2026Camp.zip/file) |  |  |  |
 | NFL 2025 Week 2 | [Ros+Fra](https://www.mediafire.com/file_premium/xqqfl8t9ckc3gza/NFL26Week2.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K26/blob/main/Ratings.txt) |  |  |
-| NFL 2025 Week 9 v1.1 | [Ros+Fra](https://www.mediafire.com/file_premium/qbqfguagsf79knm/NFL2026Week9_v1.1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K26/blob/main/RatingsW9.txt) |  |  |
+| NFL 2025 Week 9 *(v1.1)* | [Ros+Fra](https://www.mediafire.com/file_premium/qbqfguagsf79knm/NFL2026Week9_v1.1.zip/file) | [ReadMe](https://github.com/lostsoul63b/NFL-2K26/blob/main/RatingsW9.txt) |  |  |
 
 ---------
 ## JSGME MODS
