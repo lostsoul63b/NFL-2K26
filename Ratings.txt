@@ -9,7 +9,7 @@ PCSX2/PS2
  - Copy Ros_Portraits 26' to .\NFL 2K25 Edition\MODS folder and overwirte if prompted
  - Enable the Ros_Portraits 26' in the GME utility
  - Load NFL26Ros file for exhibition games
- - Load NFL24Fra file to start a season
+ - Load NFL26Fra file to start a season
  - Includes .max and .psu file formats
 
 PS3
@@ -40,3 +40,4 @@ Have Fun playing with this years rosters!
 
 Thanks,
 2K5 Mod Team
+
