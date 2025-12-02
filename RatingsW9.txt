@@ -20,7 +20,7 @@ XBOX
  - https://github.com/BAD-AL/NFL2K5Tool/wiki/XEMU-Setup-Guide
 
 CHANGLOG
- - Fixed season schedule in Xbox franchise save
+ - Fixed sch, hex and aligned rosters
  - Full 53 Player Rosters
  - Updated Player Equipment
  - Updated Player photos
@@ -41,3 +41,4 @@ Have Fun playing with this years rosters!
 
 Thanks,
 2K5 Mod Team
+
